@@ -1,5 +1,4 @@
 hysteria2://b9193679@107.175.182.28:58524?sni=www.bing.com&insecure=1&pinSHA256=C5B37DE0E49F7E5B736BE19F5331E71B89B4B69A98F33360226F5D538B890BFD#US-hy2
 tuic://1efcabe4-5f97-417a-a64c-6ee5ed2f427a%3A1efcabe4-5f97-417a-a64c-6ee5ed2f427a@107.175.182.28:11111?sni=www.bing.com&alpn=h3&allow_insecure=1&congestion_control=bbr#US_tuic
-ss://bm9uZTo3YmQxODBlOC0xMTQyLTQzODctOTNmNS0wM2U4ZDc1MGE4OTY@ct.877774.xyz:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dsw.zaom1.kdns.fr%3Bpath%3D%2F7bd180e8%3Btls%3Bmux%3D0#zaom-wasmer-ss
 trojan://7bd180e8-1142-4387-93f5-03e8d750a896@ct.877774.xyz:443?security=tls&sni=sw.zaom1.kdns.fr&fp=chrome&type=ws&host=sw.zaom1.kdns.fr&path=%2F7bd180e8#zaom-wasmer-trojan
 vless://7bd180e8-1142-4387-93f5-03e8d750a896@ct.877774.xyz:443?encryption=none&security=tls&sni=sw.zaom1.kdns.fr&fp=chrome&type=ws&host=sw.zaom1.kdns.fr&path=%2F7bd180e8#zaom-wasmer-vless
